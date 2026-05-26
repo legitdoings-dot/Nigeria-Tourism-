@@ -1,0 +1,85 @@
+body{ text-align: center;
+  background-color: white; margin-left: 10px;
+}
+h1{
+  text-align: center; margin-bottom: 10px; font-family: Garamond, serif; box-shadow: greenyellow 0px 0px 20px ; background-color: honeydew; border-radius: 20px;
+}
+br h4{
+  text-align: center
+}
+h2{
+  text-align: center; margin-bottom: 70px; font-family: Garamond, serif; box-shadow: teal 0px 0px 20px ; background-color: khaki; border-radius: 20px ; font-size: 35px
+}
+
+.p1{
+  text-align: center; font-family: Verdana, sans-serif; box-shadow: 0px 0px 120px white; background-color: whitesmoke; font-size: 30px
+}
+p{
+  margin-bottom: 10px;
+  
+}
+h3{
+  text-decoration-style: double;
+  text-decoration: underline
+}
+h5{
+  font-size: 20px; text-decoration: underline
+}
+h6{
+  font-size: 20px
+}
+a {  text-align: center;
+  text-decoration: none;
+  font-size: 19px; color:black; box-shadow: 0px 0px 20px black;
+  border-radius: 0px 20px; margin-top: 50px;
+}
+.imo{
+  box-shadow: 0px 0px 11px gray; margin-bottom: 60px; box-shadow: 0px 0px 20px black; border-radius: 20px
+}
+.cal{ 
+  box-shadow: 0px 0px 11px gray; margin-bottom: 60px; box-shadow: 0px 0px 20px black; border-radius: 20px
+}
+.arg{
+  box-shadow: 0px 0px 11px gray; margin-bottom: 60px; box-shadow: 0px 0px 20px black; border-radius: 20px
+}
+.osun{
+  box-shadow: 0px 0px 11px gray; margin-bottom: 60px; box-shadow: 0px 0px 20px black; border-radius: 20px
+}
+.ikeji{
+  box-shadow: 0px 0px 11px gray; margin-bottom: 20px; box-shadow: 0px 0px 20px black; border-radius: 20px
+}
+.other{
+  box-shadow: 0px 0px 11px gray; margin-bottom: 60px; border-radius: 20px;  box-shadow: 0px 0px 20px black; border-radius: 20px
+}
+.eyo{
+  box-shadow: 0px 0px 11px gray; margin-bottom: 60px;  box-shadow: 0px 0px 20px black; border-radius: 20px
+}
+li {
+  text-align: left
+}
+input{
+  width: 300px; height: auto ;margin-left: 5px; border-radius: 20px; box-shadow: 0px 0px 30px
+}
+.grid {
+  display: flex; gap: 4px; 
+}
+
+.cala {
+  display: flex; gap: 4px
+}
+.osuun {
+  display: flex; gap: 2px; block-size:80px; }
+
+}
+
+
+h2 {
+    text-align: center;
+    margin-bottom: 20px}
+img{
+  width: 80px; height: 80px; box-shadow: 0px 0px 20px black; border-radius: 25px;
+}
+
+section{ padding-left: 40px;
+  width: 300px;  box-shadow: 0px 0px 20px black; border-radius: 25px; text-align: center
+}

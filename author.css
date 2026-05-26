@@ -1,0 +1,65 @@
+body{background-color: wheat}
+
+.author-section{
+    width:90%;
+    margin:auto;
+
+    padding:30px;
+}
+
+.author-card{
+
+    background:white;
+
+    padding:30px;
+
+    text-align:center;
+
+    border-radius:10px;
+
+    box-shadow:0px 3px 10px rgba(0,0,0,0.2);
+
+}
+
+.author-card img{
+
+    width:200px;
+
+    height:200px;
+
+    border-radius:50%;
+
+    object-fit:cover;
+
+    margin-bottom:20px;
+
+}
+
+.author-card h2{
+
+    color:green;
+
+    font-size:30px;
+
+}
+
+.author-card p{
+
+    line-height:1.8;
+
+}
+
+footer{
+
+    background:black;
+
+    color:white;
+
+    text-align:center;
+
+    padding:15px;
+
+}
+a{
+    font-size: 20px
+}
